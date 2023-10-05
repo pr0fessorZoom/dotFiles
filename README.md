@@ -1,2 +1,2 @@
 # dotFiles
-My configurations in .cong
+My configurations in .conf
