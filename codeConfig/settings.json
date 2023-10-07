@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "editor.fontLigatures":  true,
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "breadcrumbs.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.sideBar.location": "right",
+    "workbench.editor.showTabs": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true
+}
